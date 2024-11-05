@@ -3,7 +3,7 @@
 This is a demo application to demonstrate a fullstack application built using nextjs for e-commerce payment collection through the Stripe payment gateway
 
 # Github Repo
-yryyr
+
 
 # Dependencies
 - Redux: for application state management
