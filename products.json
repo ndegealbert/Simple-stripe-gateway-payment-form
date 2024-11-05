@@ -1,0 +1,23 @@
+[{
+        "title": "Brown Shopping Bag",
+        "id": "bag",
+        "description": "Show off your style with this cool brown bag!",
+        "price": 2.00,
+        "image": {
+            "url": "/images/bag.jpg",
+            "width": 200,
+            "height": 180
+        }
+    },
+    {
+        "title": "Mountain Bike",
+        "id": "bike",
+        "description": "Purple bike for her.",
+        "price": 150.00,
+        "image": {
+            "url": "/images/bike.jpg",
+            "width": 250,
+            "height": 200
+        }
+    }
+]
