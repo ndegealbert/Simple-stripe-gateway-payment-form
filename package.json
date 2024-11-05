@@ -1,5 +1,5 @@
 {
-  "name": "simple-stripe-checkout-form",
+  "name": "simple-stripe-payment-checkout-form",
   "version": "0.1.0",
   "private": true,
   "scripts": {
