@@ -1,6 +1,6 @@
-# Simple Store
+# Simple Store with with a seamless stripe integration
 
-This is a demo application to demonstrate a fullstack application built using nextjs for e-commerce payment collection through the Stripe payment gateway
+This is an application designed to showcase a complete full-stack solution built using Next.js. It serves as a demonstration of an e-commerce platform with a seamless payment collection system integrated through the Stripe payment gateway.
 
 # Github Repo
 
